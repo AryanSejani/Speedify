@@ -150,10 +150,10 @@ function _toPrimitive(input, hint) { if (_typeof(input) !== "object" || input ==
       releaseOnEdges: true
     }), _defineProperty(_Swiper, "breakpoints", {
       640: {
-        slidesPerView: 1
+        slidesPerView: 1.5
       },
       900: {
-        slidesPerView: 2
+        slidesPerView: 2.5
       },
       1600: {
         slidesPerView: 3.5
